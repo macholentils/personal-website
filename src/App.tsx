@@ -1,5 +1,3 @@
-import profileImage from './images/P1160535.JPG?url'
-
 function App() {
   return (
     <div className="min-h-screen p-8">
