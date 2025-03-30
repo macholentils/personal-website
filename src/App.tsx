@@ -13,7 +13,7 @@ function App() {
             <div className="w-full md:w-1/3">
               <div className="aspect-square w-full overflow-hidden">
                 <img 
-                  src={profileImage} 
+                  src="/images/P1160535.JPG" 
                   alt="Ella McIntosh" 
                   className="w-full h-full object-cover"
                 />
