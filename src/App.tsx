@@ -23,7 +23,7 @@ function App() {
                 <a href="https://effectiveinstitutionsproject.org/" className="text-blue-600 hover:underline">
                   Effective Institutions Project
                 </a>
-                , where we're thinking about how we equip the most important institutions in the world to tackle the challenges of the 21st century. Before that, I did a masters in social & public policy at the LSE. I'm based in London, and when not thinking about institutions can often be found playing tennis, swimming in the ponds at hampstead heath or reading the internet.
+                , where we're thinking about how to equip the most important institutions in the world to tackle the challenges of the 21st century. Before that, I did a masters in social & public policy at the LSE. I'm based in London, and when not thinking about improving institutions can often be found playing tennis, swimming in the ponds at hampstead heath or reading the internet.
               </p>
             </div>
           </div>
