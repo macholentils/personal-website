@@ -20,7 +20,7 @@ function App() {
             <div className="w-full md:w-2/3 prose prose-lg text-left">
               <p>
                 Hi, I'm Ella! I'm chief of staff at the{' '}
-                <a href="https://effectiveinstitutionsproject.org/" className="text-blue-600 hover:underline">
+                <a href="https://effectiveinstitutionsproject.org/" style={{ color: '#320a59' }} className="hover:underline">
                   Effective Institutions Project
                 </a>
                 , where we're thinking about how to equip the most important institutions in the world to tackle the challenges of the 21st century. Before that, I did a masters in social & public policy at the LSE. I'm based in London, and when not thinking about improving institutions can often be found playing tennis, swimming in the ponds at hampstead heath or reading the internet.
@@ -30,7 +30,7 @@ function App() {
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-6 text-left">Contact</h2>
+          <h2 className="text-2xl font-semibold mb-3 text-left">Contact</h2>
           <p className="text-gray-600 text-left">
             Get in touch at{' '}
             <a href="mailto:ella.l.mci@gmail.com" style={{ color: '#320a59' }} className="hover:underline">
