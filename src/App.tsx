@@ -1,8 +1,8 @@
 function App() {
   return (
     <div className="min-h-screen p-8">
-      <header className="max-w-4xl mx-auto mb-16">
-        <h1 className="text-4xl font-bold mb-4 text-left">Ella McIntosh</h1>
+      <header className="max-w-4xl mx-auto mb-6">
+        <h1 className="text-4xl font-bold mb-2 text-left">Ella McIntosh</h1>
       </header>
 
       <main className="max-w-4xl mx-auto">
