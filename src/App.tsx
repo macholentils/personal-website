@@ -19,7 +19,7 @@ function App() {
             </div>
             <div className="w-full md:w-2/3 prose prose-lg text-left">
               <p>
-                Hi I'm Ella! I'm chief of staff at the{' '}
+                Hi, I'm Ella! I'm chief of staff at the{' '}
                 <a href="https://effectiveinstitutionsproject.org/" className="text-blue-600 hover:underline">
                   Effective Institutions Project
                 </a>
