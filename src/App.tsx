@@ -33,11 +33,11 @@ function App() {
           <h2 className="text-2xl font-semibold mb-6 text-left">Contact</h2>
           <p className="text-gray-600 text-left">
             Get in touch at{' '}
-            <a href="mailto:ella.l.mci@gmail.com" className="text-blue-600 hover:underline">
+            <a href="mailto:ella.l.mci@gmail.com" style={{ color: '#320a59' }} className="hover:underline">
               ella.l.mci [at] gmail.com
             </a>
             {' '}or on{' '}
-            <a href="https://www.linkedin.com/in/ella-mci/" className="text-blue-600 hover:underline">
+            <a href="https://www.linkedin.com/in/ella-mci/" style={{ color: '#320a59' }} className="hover:underline">
               LinkedIn
             </a>
           </p>
